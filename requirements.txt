@@ -1,0 +1,7 @@
+# python 3.9.1
+sanic
+sanic-jinja2
+# pipwin - before Twisted (if on windows)
+Twisted
+Bybit
+mysql-connector-python
